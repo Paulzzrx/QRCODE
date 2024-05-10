@@ -9,7 +9,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ![]()
 
-You can check it out live [here](https://paulzzrx.github.io/qr-code/).
+You can check it out live [here]().
 
 ## My process
 
