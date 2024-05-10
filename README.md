@@ -17,5 +17,5 @@ You can check it out live [here](https://paulzzrx.github.io/qr-code/).
 
 - HTML
 - CSS
-- 
+  
 # 🚀🚀🚀
